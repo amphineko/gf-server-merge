@@ -1,0 +1,16 @@
+{
+    "dependencies": {
+        "express": "^4.17.1",
+        "node-fetch": "^2.6.0",
+        "xmldom": "^0.1.27",
+        "yargs": "^14.0.0"
+    },
+    "devDependencies": {
+        "@types/express": "^4.17.1",
+        "@types/node": "^12.7.2",
+        "@types/node-fetch": "^2.5.0",
+        "@types/xmldom": "^0.1.29",
+        "@types/yargs": "^13.0.2",
+        "typescript": "^3.5.3"
+    }
+}

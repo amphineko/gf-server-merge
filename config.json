@@ -1,0 +1,14 @@
+{
+    "port": 8010,
+    "slice": 1,
+    "urls": [
+        {
+            "suffix": "(iOS)",
+            "url": "http://ios.transit.gf.ppgame.com/index.php?c=game&a=newserverList&channel=cn_appstore&platformChannelId=ios"
+        },
+        {
+            "suffix": "(Android Official)",
+            "url": "http://adr.transit.gf.ppgame.com/index.php?c=game&a=newserverList&channel=cn_mica&platformChannelId=GWGW"
+        }
+    ]
+}
