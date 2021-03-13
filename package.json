@@ -14,7 +14,7 @@
   "dependencies": {
     "express": "^4.17.1",
     "node-fetch": "^2.6.0",
-    "xmldom": "^0.1.27",
+    "xmldom": "^0.5.0",
     "yargs": "^14.0.0"
   },
   "devDependencies": {
